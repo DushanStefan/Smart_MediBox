@@ -1,0 +1,2 @@
+# Smart_MediBox
+ It has five primary capabilities, including setting the time zone, setting three alarms, and turning off all alarms. I programmed it using an ESP32 board. I built this entirely in C++ and used the WOKWI simulator to do it. In order to enhance my implementation, I developed a Node Red dash board that allows me to remotely monitor the medibox's temperature and humidity as well as operate other capabilities.
